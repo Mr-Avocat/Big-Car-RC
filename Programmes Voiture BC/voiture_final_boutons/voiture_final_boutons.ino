@@ -1,3 +1,5 @@
+// Créé par Camille Jouhet en 2019
+
 #include <Servo.h>
 #include <SoftwareSerial.h>
 Servo myServo;
