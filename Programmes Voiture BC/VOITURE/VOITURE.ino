@@ -1,3 +1,5 @@
+// Créé par Camille Jouhet en 2019
+
 #include <Servo.h>
 #include <SoftwareSerial.h>
 SoftwareSerial HC06(10, 11); //pin numérique rx/tx
